@@ -1,0 +1,3 @@
+wait /bin/ls -l -a
+restart /bin/ps -l
+wait /bin/echo Hello World
